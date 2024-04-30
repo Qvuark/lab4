@@ -1,0 +1,6 @@
+C:\Users\roma1\source\repos\пр4\пр4.2\StructLabStudent\bin\Debug\ConsoleApplication.exe
+C:\Users\roma1\source\repos\пр4\пр4.2\StructLabStudent\bin\Debug\ConsoleApplication.pdb
+C:\Users\roma1\source\repos\пр4\пр4.2\StructLabStudent\obj\x86\Debug\StructLabStudent.csproj.AssemblyReference.cache
+C:\Users\roma1\source\repos\пр4\пр4.2\StructLabStudent\obj\x86\Debug\StructLabStudent.csproj.CoreCompileInputs.cache
+C:\Users\roma1\source\repos\пр4\пр4.2\StructLabStudent\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\roma1\source\repos\пр4\пр4.2\StructLabStudent\obj\x86\Debug\ConsoleApplication.pdb

@@ -1,0 +1,14 @@
+C:\Users\roma1\source\repos\пр4\пр4\bin\Debug\net8.0\пр4.exe
+C:\Users\roma1\source\repos\пр4\пр4\bin\Debug\net8.0\пр4.deps.json
+C:\Users\roma1\source\repos\пр4\пр4\bin\Debug\net8.0\пр4.runtimeconfig.json
+C:\Users\roma1\source\repos\пр4\пр4\bin\Debug\net8.0\пр4.dll
+C:\Users\roma1\source\repos\пр4\пр4\bin\Debug\net8.0\пр4.pdb
+C:\Users\roma1\source\repos\пр4\пр4\obj\Debug\net8.0\пр4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma1\source\repos\пр4\пр4\obj\Debug\net8.0\пр4.AssemblyInfoInputs.cache
+C:\Users\roma1\source\repos\пр4\пр4\obj\Debug\net8.0\пр4.AssemblyInfo.cs
+C:\Users\roma1\source\repos\пр4\пр4\obj\Debug\net8.0\пр4.csproj.CoreCompileInputs.cache
+C:\Users\roma1\source\repos\пр4\пр4\obj\Debug\net8.0\пр4.dll
+C:\Users\roma1\source\repos\пр4\пр4\obj\Debug\net8.0\refint\пр4.dll
+C:\Users\roma1\source\repos\пр4\пр4\obj\Debug\net8.0\пр4.pdb
+C:\Users\roma1\source\repos\пр4\пр4\obj\Debug\net8.0\пр4.genruntimeconfig.cache
+C:\Users\roma1\source\repos\пр4\пр4\obj\Debug\net8.0\ref\пр4.dll
